@@ -21,11 +21,12 @@ A webtrees module that adds support for international Hindu genealogy features.
 ```gedcom
 1 FACT
 2 TYPE GOTRA
-2 DATA Kashyapa
+2 DATA Bhardwaj
 ```
 ## To Do
- _ Remove Tag(s)
- Add more desc
+- Remove Tag(s)
+- Add more desc
+- consider if subtag is more appropriate
 
 ## Installation
 1. Download the module
